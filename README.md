@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Krishna Singh</h1>
-<p align="center">🎓 MCA Graduate '25 | Web Developer | Data Analyst | AI Explorer</p>
+<p align="center">🎓 MCA Graduate '2025 | Web Developer | Data Analyst | AI Explorer</p>
 <p align="center">💡 Turning code into solutions and data into insights.</p>
 
 ---
@@ -16,8 +16,8 @@ Currently exploring *Flask, **Power BI, and **OpenCV* for AI/ML applications.
 
 | 💡 Category | 🔧 Tools |
 |-------------|---------|
-| 💻 Languages | Python, JavaScript, PHP, C++, HTML, CSS |
-| 🌐 Web Dev  | Flask, Bootstrap, Laravel (basic), PHP |
+| 💻 Languages | Python, JavaScript, PHP, JAVA, HTML, CSS |
+| 🌐 Web Dev  | Flask, Bootstrap, Laravel (basic) |
 | 📊 Data/ML  | Pandas, NumPy, Matplotlib, Seaborn, Power BI, TensorFlow (basic), OpenCV (basic) |
 | 🗃 Database | MySQL |
 | 🧰 Tools    | VS Code, Git, GitHub, Jupyter Notebook, Google Colab, Excel |
@@ -28,7 +28,7 @@ Currently exploring *Flask, **Power BI, and **OpenCV* for AI/ML applications.
 
 | 🧠 Project | 🔧 Stack | 📄 Description |
 |-----------|----------|----------------|
-| 🧪 *Parikshan Web App* | Flask, TensorFlow, OpenCV | AI-based crop disease detector with dashboard and real-time prediction |
+| 🧪 *Parikshan Web App* | Flask, TensorFlow, OpenCV | Find the Disease using machine learning algorithm, crop & fertilizer recommendation system|
 | 🌤 *Weather App* | Python, OpenWeather API | Fetches live weather data using API and displays in UI |
 | 🎬 *Movie Recommendation System* | Python, scikit-learn | Suggests movies using metadata like genre, cast, and director |
 | 📊 *Virat Kohli Data Analysis* | Pandas, Matplotlib | Performance data analysis of Virat Kohli from 2008–2017 |
